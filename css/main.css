@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Georgia', serif;
+    color: #880;
 }
 nav ul, footer ul {
     font-family: 'Georgia', serif;
@@ -21,8 +23,6 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Georgia', serif;
-    color: #880;
 }
 p {
     font-size: 1.5em;
