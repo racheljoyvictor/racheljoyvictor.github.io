@@ -10,6 +10,6 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 <small>
     {% for tag in page.tags %}
-    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+        <a href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
 </small>
