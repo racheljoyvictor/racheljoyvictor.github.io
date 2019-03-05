@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 date: 2019-03-02
-tags: housekeeping
+tags: housekeeping ideas
 categories: ideas
 ---
 
