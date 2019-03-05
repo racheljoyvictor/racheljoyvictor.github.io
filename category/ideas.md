@@ -1,9 +1,0 @@
-
----
-layout: categorypage
-category: ideas
-permalink: /frontdoor/ # This is only required for pretty links.
----
-<div class="blurb">
-	<h1>shut the front door - actually, don't. there's just a lot coming in</h1>
-</div><!-- /.blurb -->
