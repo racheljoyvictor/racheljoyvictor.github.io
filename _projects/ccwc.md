@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: gallery/ccwc
+permalink: /ccwc/
 ---
 <h1>Choctaw Community Wellness Center</h2>
-<p>a worldbuild for a  </p>
+<p>a worldbuild for a, that explored speculative futures centering a traditional narrative  </p>
 
 <h3>interests of mine that this intersects with</h3>
 <h3>lessons learned</h3>
