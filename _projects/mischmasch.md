@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: default
 permalink: gallery/mischmasch
 ---
 <h1>MischMasch</h2>
