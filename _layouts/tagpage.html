@@ -3,8 +3,8 @@ layout: default # This template inherits from my basic default template
 ---
 
 <!-- We're going to give each page a tag when we create it.
-This will be the title -->
 <h1>{{ page.tag | capitalize }}</h1>
+This will be the title -->
 
 <ul>
     {% for post in site.tags[page.tag] %}
