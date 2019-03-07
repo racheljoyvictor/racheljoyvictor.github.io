@@ -1,3 +1,9 @@
 name: Rachel Joy Victor, a curious person
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "/wiki/*"
+    values:
+      layout: "wiki"
